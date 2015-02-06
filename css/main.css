@@ -1,0 +1,46 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.jumbotron {
+	text-align:center;
+	font-family: 'Amatic SC', cursive;
+	background-image: url(../img/ninja.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.jumbotron h1, .description {
+   color: darkred;
+   text-shadow:
+       3px 3px 0 #fff,
+     -1px -1px 0 #fff,  
+      1px -1px 0 #fff,
+      -1px 1px 0 #fff,
+       1px 1px 0 #fff;
+       font-weight: bold;
+}
+.jumbotron h1 {
+	font-size: 5em;
+}
+.jumbotron p {
+	font-size: 3.5em;
+}
+.jumbotron address {
+	font-size: 3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
